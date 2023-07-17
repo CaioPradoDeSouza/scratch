@@ -1,4 +1,4 @@
-# scratch
+# scratch Basquete pong segunda versão.
  
  Esse foi segundo projeto, uma segunda versão do primeiro projeto também desenvolvido no curso da ALURA.
 
